@@ -59,3 +59,10 @@ git clone https://github.com/CodeWith-Harshit/product-showcase-app.git
 cd my-react_app
 npm install
 npm start
+
+Screenshots - 
+![image](https://github.com/user-attachments/assets/e2a4d642-01da-4d45-9229-cdcbf713a340)
+![image](https://github.com/user-attachments/assets/aa31a431-9179-4930-92f7-b40c99508cb7)
+
+
+Host Link - https://685d59d7e802b8fd747ac177--scintillating-conkies-af1f21.netlify.app/

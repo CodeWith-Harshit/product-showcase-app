@@ -1,0 +1,19 @@
+.header {
+  background-color: #2d3748;
+  color: white;
+  padding: 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+.nav-links a {
+  margin-left: 16px;
+  color: white;
+  text-decoration: none;
+}

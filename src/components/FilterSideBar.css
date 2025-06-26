@@ -1,0 +1,9 @@
+.filter-sidebar {
+  width: 240px;
+  padding: 16px;
+  border-right: 1px solid #ddd;
+}
+
+.price-range {
+  margin-top: 16px;
+}

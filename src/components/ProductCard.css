@@ -1,0 +1,26 @@
+.product-card {
+  border: 1px solid #ddd;
+  padding: 16px;
+  border-radius: 8px;
+}
+
+.product-image {
+  height: 160px;
+  width: 100%;
+  object-fit: contain;
+}
+
+.product-title {
+  font-size: 0.9rem;
+  font-weight: bold;
+  margin-top: 8px;
+}
+
+.product-price {
+  color: green;
+  font-weight: bold;
+}
+
+.product-rating {
+  color: goldenrod;
+}

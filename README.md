@@ -56,6 +56,6 @@ A responsive React-based web application to display products with filtering, sor
 ## 📦 How to Run Locally
 
 git clone https://github.com/CodeWith-Harshit/product-showcase-app.git
-cd product-showcase-app
+cd my-react_app
 npm install
 npm start
